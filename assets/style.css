@@ -1,0 +1,35 @@
+* .row {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-image: url('../assets/imagenes/Back_header_Principal.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 0;
+    padding: 6rem;
+    max-width: 100%;
+}
+
+.container {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 100%;
+}
+
+.fondo-verde {
+    background-image: url('../assets/imagenes/fondo-verde.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 25%;
+}
+
+.blue {
+    background-color: #E9F4F9;
+}
